@@ -13,3 +13,5 @@ Para compilar e executar o projeto, basta executar o seguinte comando no termina
 ```bash
 make clean && make && make run
 ```
+
+<p align="center"> <img src="https://drive.google.com/file/d/19ZwyNFiO2zdHOxZqKsPPLbwFdFs8wD23/view?usp=sharing" alt="Exemplo de Ray Tracing" /> </p>
