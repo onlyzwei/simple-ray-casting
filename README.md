@@ -1,13 +1,15 @@
-# Ray tracing básico
+# Ray Tracing Básico
 
-Um projeto básico de uma implementação de ray tracing inocente utilizando o algoritmo de Bresenham para desenhar as linhas de uma forma mais eficiente
+Este projeto apresenta uma implementação básica e inocente de Ray Tracing, utilizando o algoritmo de Bresenham para desenhar as linhas de maneira mais eficiente.
 
-## Você precisará ter o gcc e o makefile em sua máquina, para rodar apenas digite no cmd:
+## Pré-requisitos
+
+Certifique-se de ter o `gcc` e o `make` instalados em sua máquina. Caso não tenha, instale-os.
+
+## Como Rodar
+
+Para compilar e executar o projeto, basta executar o seguinte comando no terminal:
 
 ```bash
 make clean && make && make run
 ```
-<p align="center">
-  <img src="raytracing.gif" alt="" />
-</p>
-
