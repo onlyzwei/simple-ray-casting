@@ -1,6 +1,6 @@
-# Ray Tracing Básico
+# Ray Casting Básico
 
-Este projeto apresenta uma implementação básica e inocente de Ray Tracing, utilizando o algoritmo de Bresenham para desenhar as linhas de maneira mais eficiente.
+Este projeto apresenta uma implementação básica e inocente de Ray Casting, utilizando o algoritmo de Bresenham para desenhar as linhas de maneira mais eficiente.
 
 ## Pré-requisitos
 
